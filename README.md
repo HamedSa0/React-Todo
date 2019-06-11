@@ -1,4 +1,4 @@
-# Sample React App
+# React Todo
 
 ## Build Setup
 
